@@ -1,3 +1,3 @@
-USERNAME: Homework0107
+USERNAME: admin
 
-PASSWORD: homework0107
+PASSWORD: admin
